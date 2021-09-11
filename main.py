@@ -1,4 +1,5 @@
 # Goal: Build and train a neural network that classifies images, then evaluate the accuracy of the model.
+# Reference: https://www.tensorflow.org/tutorials/quickstart/beginner
 
 import tensorflow as tf
 
